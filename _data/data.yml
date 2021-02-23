@@ -1,19 +1,19 @@
 intro:
   name: Mengfei Liu
-  title: Backend Developer
+  title: 
   avatar:
     display: true
-    path: profile.png
+    path: profile.jpg
 
 contact:
-  email: lmf840822@
+  email: lmf840822@gmail.com
   phone: 416-827-4536
   whatsapp:
   telegram:
   website: mengfei-liu.github.io
   medium:
-  linkedin: www.linkedin.com/in/mengfei-liu/
-  github: github.com/mengfei-liu/
+  linkedin: mengfei-liu
+  github: mengfei-liu
   gitlab:
   bitbucket:
   twitter: 
