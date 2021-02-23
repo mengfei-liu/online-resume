@@ -123,7 +123,6 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
 
   items:
     - name: Driving Behavior Classification
