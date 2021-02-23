@@ -1,22 +1,22 @@
 intro:
-  name: Foo Bar
+  name: Mengfei Liu
   title: Backend Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: lmf840822@
+  phone: 416-827-4536
   whatsapp:
   telegram:
-  website: example.com
+  website: mengfei-liu.github.io
   medium:
-  linkedin:
-  github: github
+  linkedin: www.linkedin.com/in/mengfei-liu/
+  github: github.com/mengfei-liu/
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
