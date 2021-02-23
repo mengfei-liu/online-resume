@@ -31,7 +31,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -43,9 +43,7 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    From monitoring one's health on a smart watch to house price predictions in todays world we are constantly surrounded by data. After several years as a UI Software Developer I found myself drawn to the data collected from the software I used. I enjoy finding the patterns and insights hidden behind the data to positively impact the lives of others.
 
     ...
 
@@ -53,55 +51,75 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: BrainStation
+      time: 2020
+      major: Data Science
+      degree: Diploma
+      details: 
+
+    - university: University of Windsor
+      time: 2013 - 2014
+      major: Electrical Engineering
       degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
+      details: 
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Xidian University
+      time: 2003 - 2008
+      major: Electrical Engineering
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+      details:
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Machine Learning Engineer (Apprenticeship)
+      time: 2020.11 - Now
+      tag: Internship
+      company: Chiefly
       tag:
-      location: Beijing
+      location: Toronto, Ontario, Canada
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
+        + Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.
+        + Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Software Developer
+      time: 2016.01 - 2020.01
+      company: Aposys Technologies Inc.
+      tag: Full-time
+      location: Mississauga, Ontario, Canada
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system.
+        + Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system.
+        + Increased the measurement accuracy from centimeter level to millimeter level by calibrating the system constantly, adjusting the code and performing field tests.
+        + Worked with hardware engineer to designed and implemented the interface between hardware and software.
 
-        ...
+    - role: Electronics Technician
+      time: 2014.12 - 2015.12
+      company: EA Industries Limited
+      tag: Full-time
+      location: Markham, Ontario, Canada
+      details: |
+        + Following direction while working with a team and maintaining a positive and respectful workplace.
+        + Diagnose, fix and refurbish mobile phones and computers.
+
+    - role: Software Developer
+      time: 2010.01 - 2013.04
+      company: National Radio Spectrum Management Institute
+      tag: Full-time
+      location: Xi’an, Shaanxi, China
+      details: |
+        + Assisted in the development of work plans and project organization.
+        + Developed an application software on windows platform (MFC) to control the radio spectrum receiver, retrieve and analyze the radio data.
+        + Performed testing, maintenance, and debug of code.
+
+    - role: IT Support
+      time: 2008.08 - 2010.01
+      company: National Radio Spectrum Management Institute
+      tag: Full-time
+      location: Xi’an, Shaanxi, China
+      details: |
 
 projects:
   display: true
@@ -110,18 +128,18 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Driving Behavior Classification
+      link: https://github.com/mengfei-liu/Capstone
       details: |
-        Project Foo's detail, you can write markdown format text.
+        Utilizing convolutional neural network and transfer learning techniques to classify images and video into 5 different behavior categories, having a 91% accuracy on test set.
 
-    - name: Bar
+    - name: User Interface
       link:
       details: |
-        Project Bar's detail, you can write markdown format text.
+        Using QtQuick and C++ successfully developed the user interface on the portable laser measurement device. It is able to control the embedded system and retrieve real time measurement and log operation records into SQLite database.
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -140,14 +158,15 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
+    + Programming: Python, C++, QML, SQL, Bash
+    + Data Science Tools: Numpy, Pandas, Scikit-learn, OpenCV
+    + Statistics: Hypothesis Testing, Linear Regression, Logistic Regression
+    + Neural Networks: Tensorflow, Keras, Pytorch
+    + Big Data: AWS, Hadoop, Spark, Hive
+    + Visualization: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 evaluation:
-  display: true
+  display: truefalse
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -157,7 +176,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
