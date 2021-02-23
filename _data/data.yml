@@ -71,7 +71,7 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Machine Learning Engineer
+    - role: MachineLearning Engineer
       time: 2020.11 - Now
       tag: Part-time
       company: Chiefly
