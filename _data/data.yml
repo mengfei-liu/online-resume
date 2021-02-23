@@ -71,9 +71,9 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: MachineLearning Engineer
-      time: 2020.11 - Now
-      tag: Part-time
+    - role: Machine Learning Engineer
+      time: 2020.11 - 2021.03
+      tag: Internship
       company: Chiefly
       tag:
       location: Toronto, Ontario, Canada
