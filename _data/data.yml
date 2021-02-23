@@ -26,9 +26,9 @@ languages:
   title: Languages
   items:
     - idiom: Chinese
-      level: Native
+      level: 
     - idiom: English
-      level: Professional
+      level: 
 
 interests:
   display: false
@@ -125,12 +125,12 @@ projects:
   intro: |
 
   items:
-    - name: Driving Behavior Classification
+    - name: Driving Behavior Classification | BrainStation
       link: https://github.com/mengfei-liu/Capstone
       details: |
         Utilizing convolutional neural network and transfer learning techniques to classify images and video into 5 different behavior categories, having a 91% accuracy on test set.
 
-    - name: User Interface
+    - name: User Interface | Aposys Technologies Inc.
       link: https://github.com/mengfei-liu/ApoStron_GUI
       details: |
         Using QtQuick and C++ successfully developed the user interface on the portable laser measurement device. It is able to control the embedded system and retrieve real time measurement and log operation records into SQLite database.
