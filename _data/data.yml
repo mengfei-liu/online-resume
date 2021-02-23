@@ -164,7 +164,7 @@ skills:
     + Visualization: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 evaluation:
-  display: truefalse
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
