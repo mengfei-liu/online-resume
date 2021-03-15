@@ -71,7 +71,7 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Machine Learning Engineer
+    - role: Machine Learning Engineer (Apprenticeship)
       time: 2020.11 - 2021.03
       tag: Internship
       company: Chiefly
@@ -118,6 +118,9 @@ experiences:
       tag: Full-time
       location: Xi’an, Shaanxi, China
       details: |
+        + Installed and maintained company’s computer systems and network.
+        + Performed upgrades and installed updates.
+        + Completed troubleshooting and repair when computers had problems.
 
 projects:
   display: true
