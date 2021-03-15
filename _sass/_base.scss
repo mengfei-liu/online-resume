@@ -100,7 +100,8 @@ p {
         position: absolute;
         right: 0;
         top: 0;
-        color: $text-grey;
+        color: text-color;
+        // color: $text-grey;
     }
 
     .role, .major {
