@@ -139,7 +139,7 @@ projects:
         Exploratory Data Analysis and data cleaning on previous election data with visualization and Statistical Modelling to find correlations and patterns in the data.
 
     - name: BIXI Bike Data Analysis | BrainStation
-      link: 
+      link: https://github.com/mengfei-liu/Bixi-Montreal-Data-Analysis
       details: |
         Looking into trip data form BIXI, Montréal's bicycle sharing system, with basic SQL Queries on MySQL Workbench and data visualization from Tableau to answer business questions.
 
