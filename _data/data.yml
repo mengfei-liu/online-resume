@@ -168,12 +168,12 @@ skills:
   display: true
   title: Skills
   details: |
-    Programming: Python, C++, QML, SQL, Bash
-    Data Science Tools: Numpy, Pandas, Scikit-learn, OpenCV
-    Statistics: Hypothesis Testing, Linear Regression, Logistic Regression
-    Neural Networks: Tensorflow, Keras, Pytorch
-    Big Data: AWS, Hadoop, Spark, Hive
-    Visualization: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
+    + Programming: Python, C++, QML, SQL, Bash
+    + Data Science Tools: Numpy, Pandas, Scikit-learn, OpenCV
+    + Statistics: Hypothesis Testing, Linear Regression, Logistic Regression
+    + Neural Networks: Tensorflow, Keras, Pytorch
+    + Big Data: AWS, Hadoop, Spark, Hive
+    + Visualization: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 evaluation:
   display: false
