@@ -25,9 +25,9 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
-      level: 
     - idiom: English
+      level: 
+    - idiom: Chinese
       level: 
 
 interests:
@@ -133,6 +133,16 @@ projects:
       details: |
         Utilizing convolutional neural network and transfer learning techniques to classify images and video into 5 different behavior categories, having a 91% accuracy on test set.
 
+    - name: US Presidential Elections Analysis | BrainStation
+      link: 
+      details: |
+        Exploratory Data Analysis and data cleaning on previous election data with visualization and Statistical Modelling to find correlations and patterns in the data.
+
+    - name: BIXI Bike Data Analysis | BrainStation
+      link: 
+      details: |
+        Looking into trip data form BIXI, Montréal's bicycle sharing system, with basic SQL Queries on MySQL Workbench and data visualization from Tableau to answer business questions.
+
     - name: User Interface | Aposys Technologies Inc.
       link: https://github.com/mengfei-liu/ApoStron_GUI
       details: |
@@ -158,12 +168,12 @@ skills:
   display: true
   title: Skills
   details: |
-    + Programming: Python, C++, QML, SQL, Bash
-    + Data Science Tools: Numpy, Pandas, Scikit-learn, OpenCV
-    + Statistics: Hypothesis Testing, Linear Regression, Logistic Regression
-    + Neural Networks: Tensorflow, Keras, Pytorch
-    + Big Data: AWS, Hadoop, Spark, Hive
-    + Visualization: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
+    Programming: Python, C++, QML, SQL, Bash
+    Data Science Tools: Numpy, Pandas, Scikit-learn, OpenCV
+    Statistics: Hypothesis Testing, Linear Regression, Logistic Regression
+    Neural Networks: Tensorflow, Keras, Pytorch
+    Big Data: AWS, Hadoop, Spark, Hive
+    Visualization: Tableau, Matplotlib, Seaborn, Plotly, Bokeh
 
 evaluation:
   display: false
