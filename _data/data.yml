@@ -91,7 +91,7 @@ experiences:
         + Developed a working laser measurement prototype device by programming the individual components (laser, encoder, accelerator, etc.) and integrating into an embedded system.
         + Improved the usability of the embedded system by designing and developing the touchscreen UI (C++ / QML) running on a Linux system.
         + Increased the measurement accuracy from centimeter level to millimeter level by calibrating the system constantly, adjusting the code and performing field tests.
-        + Worked with the hardware engineer to design and implement the interface between hardware and software
+        + Worked with the hardware engineer to design and implement the interface between hardware and software.
 
     - role: Electronics Technician
       time: 2014.12 - 2015.12
