@@ -78,8 +78,8 @@ experiences:
       tag:
       location: Toronto, Ontario, Canada
       details: |
-        + Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
-        + Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.
+        + Enabled automated engagement analysis on leadership coaching sessions by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
+        + Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run Sagemaker instances.
         + Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.
 
     - role: Software Developer
@@ -88,10 +88,10 @@ experiences:
       tag: Full-time
       location: Mississauga, Ontario, Canada
       details: |
-        + Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system.
-        + Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system.
+        + Developed a working laser measurement prototype device by programming the individual components (laser, encoder, accelerator, etc.) and integrating into an embedded system.
+        + Improved the usability of the embedded system by designing and developing the touchscreen UI (C++ / QML) running on a Linux system.
         + Increased the measurement accuracy from centimeter level to millimeter level by calibrating the system constantly, adjusting the code and performing field tests.
-        + Worked with hardware engineer to designed and implemented the interface between hardware and software.
+        + Worked with the hardware engineer to design and implement the interface between hardware and software.
 
     - role: Electronics Technician
       time: 2014.12 - 2015.12
@@ -99,8 +99,8 @@ experiences:
       tag: Full-time
       location: Markham, Ontario, Canada
       details: |
-        + Following direction while working with a team and maintaining a positive and respectful workplace.
-        + Diagnose, fix and refurbish mobile phones and computers.
+        + Followed direction while working with a team and maintained a positive and respectful workplace.
+        + Diagnosed, fixed and refurbished mobile phones and computers.
 
     - role: Software Developer
       time: 2010.01 - 2013.04
@@ -110,7 +110,7 @@ experiences:
       details: |
         + Assisted in the development of work plans and project organization.
         + Developed an application software on windows platform (MFC) to control the radio spectrum receiver, retrieve and analyze the radio data.
-        + Performed testing, maintenance, and debug of code.
+        + Performed testing, maintenance and debug of code.
 
     - role: IT Support
       time: 2008.08 - 2010.01
