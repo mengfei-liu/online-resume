@@ -75,11 +75,12 @@ experiences:
       time: 2020.11 - 2021.03
       tag: Internship
       company: Chiefly
-      tag:
       location: Toronto, Ontario, Canada
       details: |
-        + Enabled automated engagement analysis on leadership coaching sessions by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
-        + Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run Sagemaker instances.
+        + Performed data wrangling with Python, cleaned redundant and corrupt image data, reduced multiple categories data into desired categories.
+        + Expanded the size of the ML model training data by 10X by using Python to extract the avatar photos from the videos, augmented the images by shifting, rotating, changing color, etc. to enhance the generalization of the model.
+        + Enabled automated engagement analysis on leadership coaching sessions by developing a computer vision (OpenCV and Dlib) model to score how engaged users were in recorded video sessions.
+        + Migrated the process onto the cloud service (AWS), implemented and optimized data pipelines on AWS to sync, analyze data and generate analysis reports.
         + Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.
 
     - role: Software Developer
@@ -99,9 +100,9 @@ experiences:
       tag: Full-time
       location: Markham, Ontario, Canada
       details: |
-        + Followed direction while working with a team and maintained a positive and respectful workplace.
         + Diagnosed, fixed and refurbished mobile phones and computers.
-
+        + Followed direction while working with a team and maintained a positive and respectful workplace.
+        
     - role: Software Developer
       time: 2010.01 - 2013.04
       company: National Radio Spectrum Management Institute
@@ -141,7 +142,7 @@ projects:
     - name: BIXI Bike Data Analysis | BrainStation
       link: https://github.com/mengfei-liu/Bixi-Montreal-Data-Analysis
       details: |
-        Looking into trip data form BIXI, Montréal's bicycle sharing system, with basic SQL Queries on MySQL Workbench and data visualization from Tableau to answer business questions.
+        Looking into trip data from BIXI, Montréal's bicycle sharing system, with basic SQL Queries on MySQL Workbench and data visualization from Tableau to answer business questions.
 
     - name: User Interface | Aposys Technologies Inc.
       link: https://github.com/mengfei-liu/ApoStron_GUI
